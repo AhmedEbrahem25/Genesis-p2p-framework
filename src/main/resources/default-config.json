@@ -1,0 +1,13 @@
+{
+  "nodeId": "auto-generated",
+  "listenPort": 8080,
+  "tcpPort": 8081,
+  "multicastGroup": "239.255.0.1",
+  "multicastPort": 5000,
+  "broadcastPort": 5001,
+  "preSharedKeyHex": "",
+  "persistenceEnabled": true,
+  "persistenceDir": "./data",
+  "protocolVersion": "2.0"
+}
+

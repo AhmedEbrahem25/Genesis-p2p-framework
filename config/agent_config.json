@@ -1,0 +1,9 @@
+{
+  "nodeId": "node-01",
+  "listenPort": 5001,
+  "tcpPort": 6001,
+  "multicastGroup": "230.0.0.1",
+  "multicastPort": 4446,
+  "broadcastPort": 4447,
+  "preSharedKeyHex": "00112233445566778899AABBCCDDEEFF"
+}

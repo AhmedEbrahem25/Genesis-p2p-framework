@@ -1,0 +1,140 @@
+########################################
+#       GENESIS P2P FRAMEWORK
+#        PROFESSIONAL GITIGNORE
+########################################
+
+###############
+# Build Output
+###############
+# Maven target directory
+/target/
+
+# Build artifacts
+*.jar
+*.war
+=======
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+jdk/
+
+# Package Files #
+*.jar
+*.war
+*.nar
+>>>>>>> origin/main
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+<<<<<<< HEAD
+# Dependency reduced POM (shade plugin)
+dependency-reduced-pom.xml
+
+
+###############
+# Java & JVM
+###############
+*.class
+*.log
+*.hprof
+*.jfr
+
+# JVM crash logs
+hs_err_pid*
+replay_pid*
+
+
+###############
+# Local JDK Bundles
+###############
+# You included a local JDK earlier — prevent re-upload
+/jdk/
+/jdk*/
+jdk/*
+
+
+###############
+# IntelliJ IDEA
+###############
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# IntelliJ module metadata
+/out/
+
+
+###############
+# VSCode
+###############
+.vscode/
+.settings/
+.classpath
+.project
+
+
+###############
+# OS-Specific Junk
+###############
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+*~
+
+
+###############
+# Logs & Temp
+###############
+*.log
+*.tmp
+*.temp
+*.swp
+*.swo
+
+
+###############
+# Test & Coverage Tools
+###############
+# JUnit / Surefire
+/surefire-reports/
+failsafe-reports/
+
+# Coverage Tools
+/.jacoco/
+jacoco.exec
+
+###############
+# IDE Caches
+###############
+# JetBrains
+/.cache/
+.idea/libraries/
+.idea/modules.xml
+.idea/workspace.xml
+
+# Gradle (if someone opens repo with gradle)
+.gradle/
+
+
+########################################
+# END OF FILE
+########################################
